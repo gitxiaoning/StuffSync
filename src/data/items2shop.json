@@ -1,0 +1,92 @@
+[
+    {
+        "id": 16,
+        "name": "rice",
+        "category": "grain",
+        "icon": "🍚",
+        "quantity": 10,
+        "is_almost_finished": false,
+        "location": "Lower cupboard",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700774400000
+    },
+
+    {
+        "id": 17,
+        "name": "salmon fillet",
+        "category": "fish",
+        "icon": "🐟",
+        "quantity": 3,
+        "is_almost_finished": false,
+        "location": "Freezer",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700774400000
+    },
+
+    {
+        "id": 18,
+        "name": "dark chocolate",
+        "category": "snack",
+        "icon": "🍫",
+        "quantity": 5,
+        "is_almost_finished": false,
+        "location": "Snack drawer",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700774400000
+    },
+
+    {
+        "id": 19,
+        "name": "peanut butter",
+        "category": "spread",
+        "icon": "🥜",
+        "quantity": 1,
+        "is_almost_finished": true,
+        "location": "Top shelf",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700774400000
+    },
+
+    {
+        "id": 20,
+        "name": "yogurt",
+        "category": "dairy",
+        "icon": "🍦",
+        "quantity": 7,
+        "is_almost_finished": false,
+        "location": "Dairy shelf",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700774400000
+    },
+
+    {
+        "id": 21,
+        "name": "olive oil",
+        "category": "condiment",
+        "icon": "🫒",
+        "quantity": 1,
+        "is_almost_finished": false,
+        "location": "Pantry",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700774400000
+    },
+
+    {
+        "id": 22,
+        "name": "granola bars",
+        "category": "snack",
+        "icon": "🍫",
+        "quantity": 8,
+        "is_almost_finished": false,
+        "location": "Snack drawer",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700774400000
+    }
+]

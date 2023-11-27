@@ -1,0 +1,31 @@
+[
+    {
+        "video":"GLd3aX16zBg",
+        "food": "Grilled Cheese Sandwich",
+        "link":"https://www.youtube.com/watch?v=GLd3aX16zBg",
+        "ingredients":["margarine", "white bread", "cheese"],
+        "icons":["🧈", "🍞", "🧀"]
+    }, 
+    {
+        "video":"xHr8X2Wpmno",
+        "food": "Fattoush Salad",
+        "link":"https://www.youtube.com/watch?v=xHr8X2Wpmno",
+        "ingredients":["verdalago", "lemon juice", "sumac", "garlic", "salt", "oil", "lettuce", "pepper", "cucumbers", "tomatoes", "herbs", "onions", "fried pita"],
+        "icons":["🌿", "🍋", "🌿", "🧄", "🧂", "🛢️", "🥬", "🌶️", "🥒", "🍅", "🌿", "🧅", "🥙"]
+    },
+    {
+        "video":"V53XmPeyjIU",
+        "food": "Country Fried Chicken",
+        "link":"https://www.youtube.com/watch?v=V53XmPeyjIU",
+        "ingredients":["salt", "butter", "milk", "hot sauce", "chicken", "mixed spices", "flour", "pepper", "cucumbers", "celery salt", "oil"],
+        "icons":["🧂", "🧈", "🥛", "🌶️", "🍗", "🌿", "🌾", "🌶️", "🥒", "🧂", "🛢️"]
+    },
+    {
+        "video":"mZwK0TBI1iY",
+        "food": "Chicken Parmesan",
+        "link":"https://www.youtube.com/watch?v=mZwK0TBI1iY",
+        "ingredients":["bread", "parmesan cheese", "chicken", "salt", "pepper", "flour", "eggs", "oil", "tomato Sauce", "celery salt", "mozzarella cheese"],
+        "icons":["🍞", "🧀", "🍗", "🧂", "🌶️", "🌾", "🥚", "🛢️", "🍅", "🧂", "🧀"]
+    }
+
+]

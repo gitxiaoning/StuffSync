@@ -1,0 +1,224 @@
+[
+    {
+        "id": 0,
+        "name": "banana",
+        "category": "fruit",
+        "icon": "🍌",
+        "quantity": 10,
+        "is_almost_finished":false,
+        "location": "",
+        "description": "",
+        "boxsize": "small",
+        "timestamp_added": 1700051086000
+    },
+    
+    {
+        "id": 1,
+        "name": "butter",
+        "category": "dairy",
+        "icon": "🧈",
+        "quantity": 1,
+        "is_almost_finished":false,
+        "location": "",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700751086000
+    },
+
+    {
+        "id": 2,
+        "name": "Taco Bell taco",
+        "category": "food",
+        "icon": "🌮",
+        "quantity": 4,
+        "is_almost_finished":false,
+        "location": "First Drawer in Refrigerator",
+        "description": "",
+        "boxsize": "long",
+        "timestamp_added": 1700951086000
+    },
+
+    {
+        "id": 3,
+        "name": "apple",
+        "category": "fruit",
+        "icon": "🍎",
+        "quantity": 5,
+        "is_almost_finished": false,
+        "location": "Fruit basket",
+        "description": "",
+        "boxsize": "small",
+        "timestamp_added": 1700947200000
+    },
+    {
+        "id": 4,
+        "name": "carrot",
+        "category": "vegetable",
+        "icon": "🥕",
+        "quantity": 8,
+        "is_almost_finished": false,
+        "location": "Vegetable drawer",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700774400000
+    },
+    {
+        "id": 5,
+        "name": "cheese",
+        "category": "dairy",
+        "icon": "🧀",
+        "quantity": 2,
+        "is_almost_finished": false,
+        "location": "Dairy shelf",
+        "description": "",
+        "boxsize": "small",
+        "timestamp_added": 1700774400000
+    },
+    {
+        "id": 6,
+        "name": "whole wheat bread",
+        "category": "bakery",
+        "icon": "🍞",
+        "quantity": 1,
+        "is_almost_finished": true,
+        "location": "Pantry",
+        "description": "",
+        "boxsize": "long",
+        "timestamp_added": 1700688000000
+    },
+    {
+        "id": 7,
+        "name": "strawberry jam",
+        "category": "condiment",
+        "icon": "🍓",
+        "quantity": 3,
+        "is_almost_finished": false,
+        "location": "Top shelf",
+        "description": "",
+        "boxsize": "small",
+        "timestamp_added": 1700688000000
+    },
+    {
+        "id": 8,
+        "name": "green tea",
+        "category": "beverage",
+        "icon": "🍵",
+        "quantity": 20,
+        "is_almost_finished": false,
+        "location": "Pantry",
+        "description": "",
+        "boxsize": "small",
+        "timestamp_added": 1700428800000
+    },
+    {
+        "id": 9,
+        "name": "chicken",
+        "category": "meat",
+        "icon": "🍗",
+        "quantity": 6,
+        "is_almost_finished": false,
+        "location": "Freezer",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700428800000
+    },
+    {
+        "id": 10,
+        "name": "almonds",
+        "category": "nuts",
+        "icon": "🌰",
+        "quantity": 15,
+        "is_almost_finished": false,
+        "location": "Snack drawer",
+        "description": "",
+        "boxsize": "small",
+        "timestamp_added": 1700428800000
+    },
+    {
+        "id": 11,
+        "name": "sparkling water",
+        "category": "beverage",
+        "icon": "🥤",
+        "quantity": 10,
+        "is_almost_finished": false,
+        "location": "Fridge door",
+        "description": "",
+        "boxsize": "long",
+        "timestamp_added": 1700342400000
+    },
+    {
+        "id": 12,
+        "name": "spinach",
+        "category": "vegetable",
+        "icon": "🍃",
+        "quantity": 2,
+        "is_almost_finished": true,
+        "location": "Salad drawer",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700342400000
+    },
+    {
+        "id": 13,
+        "name": "eggs",
+        "category": "dairy",
+        "icon": "🥚",
+        "quantity": 12,
+        "is_almost_finished": false,
+        "location": "Egg tray",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700774400000
+    },
+    {
+        "id": 14,
+        "name": "tomato sauce",
+        "category": "condiment",
+        "icon": "🍅",
+        "quantity": 4,
+        "is_almost_finished": false,
+        "location": "Pantry",
+        "description": "",
+        "boxsize": "medium",
+        "timestamp_added": 1700774400000
+    },
+
+    {
+        "id": 15,
+        "name": "white bread",
+        "category": "bread",
+        "icon": "🍞",
+        "quantity": 1,
+        "is_almost_finished":true,
+        "location": "",
+        "description": "",
+        "boxsize": "small",
+        "timestamp_added": 1700688000000
+    },
+
+    {
+        "id": 16,
+        "name": "swiss cheese",
+        "category": "dairy",
+        "icon": "🧀",
+        "quantity": 1,
+        "is_almost_finished":false,
+        "location": "",
+        "description": "",
+        "boxsize": "small",
+        "timestamp_added": 1700688000000
+    },
+
+    {
+        "id": 17,
+        "name": "black pepper",
+        "category": "spice",
+        "icon": "🌶️",
+        "quantity": 1,
+        "is_almost_finished": true,
+        "location": "Pantry",
+        "description": "Ground black pepper",
+        "boxsize": "small",
+        "timestamp_added": 1700688000000
+        }
+]

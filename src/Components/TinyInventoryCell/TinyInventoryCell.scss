@@ -1,0 +1,22 @@
+.tiny-cell{
+    background-color: #FEC89A;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    border-radius: 100px;
+
+    &:hover{
+        background-color: rgba($color: #FEC89A, $alpha: 0.8)
+    }
+
+}
+
+.cell-clicked{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    border-radius: 100px;
+    background-color: rgba($color: #e7b58a, $alpha: 0.8)
+}

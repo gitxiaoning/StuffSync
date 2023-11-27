@@ -1,0 +1,41 @@
+.dropdown{
+    width: 34px;
+    height: 34px;
+    background-color: #F8EDEB;
+    border-radius: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-left: 200px;
+    
+
+    * {
+        background-color: rgba($color: #000000, $alpha: 0.0);
+    }
+
+    &__image-wrapper{
+        width: 22px;
+        height: 22px;
+        
+        border:0px black solid;
+    }
+
+    &__icon{
+        width: 22px;
+        height: 22px;
+    }
+}
+
+.dropdown-menu{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: #F8EDEB;
+    align-items: center;
+    justify-content: space-around;
+    height: 70px;
+    padding: 10px;
+
+}

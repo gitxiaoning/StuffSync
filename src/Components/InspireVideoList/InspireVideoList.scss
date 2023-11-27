@@ -1,0 +1,17 @@
+@import "../../Styles/partial";
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    
+    gap: $MARGIN_TOP_INTRA_COMPONENT;
+    overflow: auto;
+
+    justify-content: center;
+    margin-top: $MARGIN_TOP_INTER_COMPONENT;
+
+    margin-left: $MARGIN_LEFT;
+    margin-right: $MARGIN_RIGHT;
+
+    padding-bottom: 70px;
+}
